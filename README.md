@@ -1,2 +1,2 @@
 # signalr-app
-Brincando com chat em tempo real
+real-time chat .net using Signalr-app
